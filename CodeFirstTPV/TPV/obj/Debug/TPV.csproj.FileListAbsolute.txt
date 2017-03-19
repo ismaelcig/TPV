@@ -31,3 +31,6 @@ C:\Users\Usuario\Desktop\CodeFirstTPV\TPV\obj\Debug\TPV.exe
 C:\Users\Usuario\Desktop\CodeFirstTPV\TPV\obj\Debug\TPV.pdb
 C:\Users\dam204\Desktop\NuevaCarpeta\ADAT\CodeFirstTPV\TPV\obj\Debug\Windows\Factura.g.cs
 C:\Users\dam204\Desktop\NuevaCarpeta\ADAT\CodeFirstTPV\TPV\obj\Debug\Windows\Factura.baml
+C:\Users\Usuario\Documents\GitHub\TPV\CodeFirstTPV\TPV\bin\Debug\TPV.exe.config
+C:\Users\Usuario\Documents\GitHub\TPV\CodeFirstTPV\TPV\obj\Debug\TPV.exe
+C:\Users\Usuario\Documents\GitHub\TPV\CodeFirstTPV\TPV\obj\Debug\TPV.pdb
