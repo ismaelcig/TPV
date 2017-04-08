@@ -428,12 +428,6 @@ namespace TPV.Windows {
             return;
             case 14:
             this.dataGrid = ((System.Windows.Controls.DataGrid)(target));
-            
-            #line 39 "..\..\..\Windows\UserWindow.xaml"
-            this.dataGrid.SelectionChanged += new System.Windows.Controls.SelectionChangedEventHandler(this.dataGrid_SelectionChanged);
-            
-            #line default
-            #line hidden
             return;
             case 15:
             this.label5 = ((System.Windows.Controls.Label)(target));
